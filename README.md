@@ -5,4 +5,8 @@ Dataset, test videos and h5 file: [[Click here](https://drive.google.com/open?id
 
 
 training output:
-(https://github.com/ChedyBM/Fire_keras_3d/blob/master/Figure_1.png)
+
+![training output](https://github.com/ChedyBM/Fire_keras_3d/blob/master/Figure_1.png)
+
+
+I wait for your suggestions to make a better accurate model.
